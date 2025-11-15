@@ -88,6 +88,10 @@
 - [第 59 章: 生產環境最佳實踐](./chapters/59-production.md)
 - [第 60 章: 從 Node.js 遷移到 Go 的策略](./chapters/60-migration-strategy.md)
 
+### Part 11: 2025 現代 Go 開發 (Modern Go 2025)
+- [第 61 章: 2025 年 Go 寫作風格演進與最佳實踐](./chapters/61-golang-evolution-2025.md)
+- [第 62 章: 2025 年實際 Web 專案範例](./chapters/62-web-project-2025.md)
+
 ## 如何使用本書
 
 1. **循序漸進**：建議按順序閱讀，每個章節都建立在前面的基礎上
